@@ -7,3 +7,7 @@ It is a 15h course about React that I am learning and also taking **note** of.
 The notes are going to be divide in 6 chapters + 1 bonus.
 
 The video contains some **challenges**, you can find them all inside of this repesitory.
+
+## Challenge 1
+
+Let's tell some [**Fun facts about React**](https://louis97150.github.io/reactTutorial/)
