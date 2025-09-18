@@ -1,13 +1,14 @@
 # Full React tutorial
 
-Hi my name is **Louis Duong** and I am following to tutorial of **freeCodeCamp.org**, you can find the link of the video [right here]([https://exemple.com](https://www.youtube.com/watch?v=x4rFhThSX04))
+Hi, my name is **Louis Duong**! I am currently following the **freeCodeCamp.org** React tutorial.  
+You can watch the video [right here](https://www.youtube.com/watch?v=x4rFhThSX04).
 
-It is a 15h course about React that I am learning and also taking **note** of.
+This is a **15-hour course** about React, and I am actively taking **notes** while learning.  
 
-The notes are going to be divide in 6 chapters + 1 bonus.
+The notes are organized into **6 chapters plus 1 bonus section**, making it easier to follow along and review later.  
 
-The video contains some **challenges**, you can find them all inside of this repesitory.
+The video also includes some **challenges**, all of which can be found in this repository.  
 
 ## Challenge 1
 
-Let's tell some [**Fun facts about React**](https://louis97150.github.io/reactTutorial/)
+Check out some [**Fun facts about React**](https://louis97150.github.io/reactTutorial/)!
