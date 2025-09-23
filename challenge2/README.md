@@ -1,2 +1,2 @@
-##Challenge 2: the travel journal
+# Challenge 2: the travel journal
 
