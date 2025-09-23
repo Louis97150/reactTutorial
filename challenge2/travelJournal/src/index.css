@@ -1,0 +1,85 @@
+:root {
+  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  background-color: white;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  font-family: 'Inter', sans-serif;
+  margin: 0;
+  display: flex;
+  place-items: center;
+  min-width: 320px;
+  min-height: 100vh;
+}
+
+@media (prefers-color-scheme: light) {
+  :root {
+    color: #213547;
+    background-color: #ffffff;
+  }
+  a:hover {
+    color: #747bff;
+  }
+  button {
+    background-color: #f9f9f9;
+  }
+}
+
+
+.topBar{
+  position: fixed;
+  top: 0;
+  text-align: center;
+  height: 70px;
+  width: 100%;
+  background-color: #f55a5a;
+  display: flex;
+  align-items: center;        
+  justify-content: center;   
+  gap: 15px;
+}
+
+#globe{
+  width: 50px;
+  margin-right: 7px;
+}
+
+#titre{
+  font-size: 1.4rem;
+  font-weight: 500;
+  font-family: Inter;
+  color: white;
+}
+
+#fujiGlobal{
+  width: 75%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 50px;
+}
+
+#position{
+  display: flex;
+}
+
+#montagne{
+  height: 400px;
+  width: 300px;
+  border-radius: 2rem;
+  margin-right: 30px;
+}
+
+#loca{
+  height: 50px;
+  width: 50px;
+}
+
