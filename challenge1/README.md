@@ -1,4 +1,4 @@
-# First challenge
+# First challenge: some fun facts about React
 
 ![Challenge's screenshot, it is a static page in React](funFactReact/public/images/sShotChallenge1.png)
 
