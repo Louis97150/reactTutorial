@@ -9,6 +9,8 @@ The notes are organized into **6 chapters plus 1 bonus section**, making it easi
 
 The video also includes some **challenges**, all of which can be found in this repository.  
 
+All the challenges are my version the best for you it is to redo it by yourself. I didn't copy past what you can find in the video.
+
 ## Challenge 1
 
 Check out some [**Fun facts about React**](https://louis97150.github.io/reactTutorial/)!

@@ -65,21 +65,43 @@ body {
   justify-content: center;
   align-items: center;
   margin-left: 50px;
+  gap: 30px;
 }
 
 #position{
   display: flex;
+  align-items: center;
+  gap: 10px;
 }
 
 #montagne{
-  height: 400px;
-  width: 300px;
+  height: 100%;
+  width: 100%;
   border-radius: 2rem;
   margin-right: 30px;
+  object-fit: cover;
+}
+
+
+div#main-image-container{
+  width: 300px;
+  height: 400px;
+  overflow: hidden;
+}
+
+a#link-map{
+  text-decoration: none;
+  color: #747bff;
+  font-weight: 500;
+  display: inline;
+}
+
+div#image-container-loca{
+  width: 100%;
+  height: 100%;
 }
 
 #loca{
-  height: 50px;
-  width: 50px;
+  height: 40px;
+  width: 40px;
 }
-
